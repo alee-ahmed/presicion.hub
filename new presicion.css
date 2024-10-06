@@ -1,0 +1,316 @@
+.row{
+    /* border: 2px solid red; */
+}
+.col{
+    /* border: 2px solid green; */
+}
+#mynavbar ul {
+    text-transform: capitalize;
+    font-size: 18px;   
+    font-weight: bold; 
+}
+.navbar-toggler{
+    font-size: 18px;
+    border: none;
+}
+#image{
+    width: 200px;
+}
+#unorder li:hover{
+    background-color: rgba(72, 191, 246, 0.873);
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+}
+/* steptwo */
+#two h1,p{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+/* stepthree */
+
+#ic1 img{
+    height: 100px;   
+    margin-top: 20px;
+    /* margin-left: 35%; */
+    justify-content: space-between;
+}
+#ic1 img:hover{ 
+    animation: transitionIn 3s;
+}
+#ic1 h3{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 15px;
+}
+
+/* stepfour */
+#four{
+    background-color:  rgba(169, 189, 192, 0.556);
+    border-radius: 20px;
+
+}
+#doc img{
+    height: 400px;
+    width:100%;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+#doc2 h3{
+    color: rgba(15, 97, 108, 0.782);
+    margin-top: 15px;
+}
+#doc2 h1{
+    text-transform: capitalize;
+}
+#doc2 p{
+    text-align: start;
+}
+#doc3 h1{
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 10px;
+    margin-top: 10px;
+}
+
+/* stepfive step12 combined*/
+/* #for{
+    border: 2px solid black;
+    text-align: center ;
+    align-content: center;
+    font-size: 25px;
+}
+#forimg{
+    border: 2px solid black;
+}
+#forimg img{
+    width: 220px;
+    height: 130px;
+    margin-left: 100px;
+}
+#bac{
+    border: 2px solid black;
+    text-align: center ;
+    align-content: center;
+    font-size: 25px;
+} */
+
+/* stepsix */
+#office h4{
+    color: rgba(15, 97, 108, 0.782);
+    text-align: start;
+}
+#office h2{
+    text-align: start;
+}
+#office p{
+    word-spacing: 5px;
+    text-align: start;
+}
+#office{
+    background-color:  rgba(169, 189, 192, 0.556);
+    border-radius: 20px;
+}
+/* stepseven */
+
+#ser{
+    background-color:  rgba(169, 189, 192, 0.556);
+    border-radius: 20px;
+}
+#ser h1{
+    color: rgba(15, 97, 108, 0.782);
+    text-align: center;
+}
+#ser h2{
+    text-align: center;
+}
+
+#service img{
+   width: 100%;
+   border-radius: 20px;
+}
+#service h3{
+    text-transform: capitalize;
+    padding-top: 15px;
+}
+#service p{
+    text-align: start;
+}
+#service h1{
+    text-transform: capitalize;
+    text-align: start;
+}
+#service h1:hover{
+    color: rgba(15, 97, 108, 0.782);
+    animation: transitionIn 3s;
+}
+/* stepeight */
+
+#eig h1{
+    text-align: center;
+    font-size: 70px;
+    color: rgba(72, 191, 246, 0.873);
+    overflow: hidden;
+}
+#eig h1:hover{
+    color: rgba(15, 97, 108, 0.782);
+    animation: transitionIn 3s;
+}
+#eig h3{
+    text-align: center;
+    text-transform: capitalize;
+}
+/* stepnine */
+#nine{
+    background-color:  rgba(169, 189, 192, 0.556);
+    border-radius: 20px 20px 0px 0px;
+
+}
+#nine img{  
+    height: 120px;
+    width: 120px;   
+}
+#nine img:hover{
+    animation: transitionIn 3s;
+}
+#nine h1{
+    text-align: center;
+    font-size: 70px;
+    color: rgba(72, 191, 246, 0.873);
+}
+#nine h1:hover{
+    color: rgba(15, 97, 108, 0.782);
+}
+#nine h3{
+    text-align: center;
+    text-transform: capitalize;
+}
+#ninne{
+    background-color:  rgba(169, 189, 192, 0.556);
+    border-radius: 0px 0px 20px 20px;
+}
+#ninne h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: rgba(15, 97, 108, 0.782);    
+    padding-top: 25px;
+}
+#ninne h2{
+    text-align: center;
+    text-transform: capitalize;
+}
+/* step11 */
+
+#clii{
+    background-color:  rgba(169, 189, 192, 0.556);
+    border-radius: 20px 20px 20px 20px;
+}
+#cli h1{
+    text-align: center;
+    color: rgba(15, 97, 108, 0.782); 
+    text-transform: capitalize;
+    padding-top: 20px;
+}
+#cli h2{
+    text-align: center;
+    text-transform: capitalize;
+}
+#client{
+    /* border: 2px solid black; */
+    background-color: white;
+    border-radius: 20px;   
+    margin-bottom: 20px;
+}
+#client img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+#client img:hover{
+    animation: transitionIn 3s;
+}
+#client h1{
+    text-transform: capitalize;
+    color: rgba(15, 97, 108, 0.782);
+}
+#client p{
+    text-align: start;
+}
+
+/* step12 */
+#icons{
+    /* border: 2px solid black; */
+}
+#icons img{
+    height: 100px;
+    width: 230px;
+}
+#icons i{
+    font-size: 25px;
+}
+
+/* step13 */
+#foot{
+    background-color: black;
+    border-radius: 20px 20px 0px 0px;   
+}
+#foot h1{
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#foot hr{
+    color: white;
+}
+#option h3{
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#options ul{
+    color: white;
+    text-align: start;
+    text-transform: capitalize;
+    padding-top: 20px;
+    list-style-type: none;
+}
+#optionss ul{
+    color: white;
+    padding-top: 20px;
+}
+#opt{
+    margin-left: 3px;
+    
+}
+ #option {
+    color: black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+#last{
+    background-color: rgb(49, 49, 49);
+    color: rgb(199, 196, 196);
+    border-radius: 0px 0px 20px 20px;
+}
+#last p{
+    padding-top: 10px;
+}
+
+
+
+@keyframes transitionIn{
+    from{
+        opacity: 0;
+        transform: translatey(-20px);
+    }
+    to{
+        opacity: 1;
+        transform: translatey(0px);
+
+    }
+}
